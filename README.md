@@ -20,4 +20,4 @@ Download repo and run *watershed_vision.py*. To change picture and size, edit li
 * LBUTTON - place marker
 
 ### Thanks
-Inspiered by Jose Portilla
+Inspired by Jose Portilla
